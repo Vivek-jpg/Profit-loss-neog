@@ -1,0 +1,108 @@
+*{ margin: 0;padding: 0; box-sizing: border-box;}
+body{
+    background-color:#3B82F6;
+    text-align: center;
+    color: lightseagreen;
+    display: block;
+}
+.container{
+    margin: 2rem;
+    padding: auto;
+    background-color: lightskyblue;
+    border-radius: 15px;
+    height: 15rem;
+ 
+}
+label{
+    
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(43, 43, 43);
+    display: grid;
+    max-width: 100%;
+    text-align: center;
+    
+}
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    color: honeydew;
+    background-color: lightseagreen;
+    border: 3px solid rgb(245, 167, 0);
+    max-width: 50%;
+    text-align: center;
+    margin-left: 400px;
+    height: 4rem;
+    border-radius: 10px;
+    padding: 1rem;
+}
+input{
+    
+    margin: 0.5rem;
+    padding: 0.5rem;
+    border-color: rgb(30, 209, 30);
+    border-radius: 10px;
+    border: none;
+    justify-items: center;
+    margin-left: 350px;
+    max-width: 50%;
+}
+button{
+    margin: 1.5rem;
+    padding: 0.5rem 1rem;
+    border-radius: 0.3rem;
+   border: none;
+    border-color: 2px solid rgb(6, 139, 255);
+    color: aliceblue;
+    font-weight: bolder;
+    font-size: 20px;
+    background-color: #FBBF24;
+    font-family: 'Raleway', sans-serif;
+    display: block;
+    margin-left: 690px;
+    margin-top: 50px;
+}
+button:hover{
+    padding: 0.7rem 1.2rem;
+    cursor: pointer;
+    transition: 0.5s;
+
+}
+footer{
+background-color: rgba(0, 0, 0, 0.699);
+margin: auto;
+margin-top: 2rem;
+margin-left: -5rem;
+margin-right: -5rem;
+border: 3px solid white;
+margin-bottom: -5rem;
+border-radius: 10rem;
+width: auto;
+
+}
+.fa {
+padding: 10px;
+font-size: larger;
+width: 50px;
+height: 50px;
+text-align: center;
+text-decoration: none;
+margin: 2rem;
+color: white;
+transition: 1s;
+}
+
+
+footer h3{
+  
+  padding: 3rem;
+  margin: auto;
+  text-align: center;
+  color: rgb(255, 167, 4);
+}
+
+.icon{
+  margin-left: 2rem;
+  padding: auto;
+  text-align: center;
+  font-size: x-large;
+}
